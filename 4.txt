@@ -1,0 +1,27 @@
+Primeira iteração na sala das lâmpadas:
+
+Ative o primeiro interruptor por um curto período.
+
+Em seguida, desative o primeiro interruptor e ative o segundo interruptor.
+
+Adentre na sala das lâmpadas.
+
+Se a lâmpada estiver acesa, associe o primeiro interruptor a essa lâmpada.
+
+Se a lâmpada estiver apagada e ainda fria, associe o segundo interruptor a essa lâmpada.
+
+Se a lâmpada estiver apagada, mas ainda estiver quente, associe o terceiro interruptor a essa lâmpada.
+
+Segunda iteração na sala das lâmpadas:
+
+Agora que você tem uma ideia inicial de qual interruptor controla cada lâmpada, você irá confirmar suas conclusões:
+
+Ative somente o interruptor que você identificou como responsável pela primeira lâmpada.
+
+Entre novamente na sala das lâmpadas.
+
+Se a lâmpada estiver acesa, isso valida sua primeira suposição.
+
+Se a lâmpada estiver apagada e ainda estiver fria, isso valida sua segunda suposição.
+
+Se a lâmpada estiver apagada, mas ainda estiver quente, isso valida sua terceira suposição.
